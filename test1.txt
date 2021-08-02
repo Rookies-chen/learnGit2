@@ -1,1 +1,5 @@
-create a new branch,and alter a file,thank you.
+
+create a new branch,and/meanwhile alter a file.
+create a new branch,meanwhile alter a file.
+
+>>>>>>> branch1
