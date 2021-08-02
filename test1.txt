@@ -1,1 +1,2 @@
-create a new branch,and alter a file.
+create a new branch,meanwhile alter a file.
+
